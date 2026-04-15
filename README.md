@@ -1,2 +1,2 @@
-[![Maven Build]<img width="1903" height="988" alt="image" src="https://github.com/user-attachments/assets/399efb3f-cabf-440f-a1e5-96d2c622c250" />]
+[![Maven Build](https://github.com/ualhmis2026-mentefria04/hmis-coches-marcos/actions/workflows/maven-build.yml/badge.svg)](https://github.com/ualhmis2026-mentefria04/hmis-coches-marcos/actions/workflows/maven-build.yml)
 
